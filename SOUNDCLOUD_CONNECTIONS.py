@@ -5,10 +5,10 @@ import csv
 import os
 
 # Create a new client that uses the user credentials oauth flow
-client = soundcloud.Client( client_id='9538533753e11862b9ecab64f80feffa',
-                            client_secret='665b784dcc9898a27d46db1c941cdc72',
-                            username='Ayrak94',
-                            password='campbell007')
+client = soundcloud.Client( client_id='',
+                            client_secret='',
+                            username='',
+                            password='')
 
 
 artist_dict = {}
