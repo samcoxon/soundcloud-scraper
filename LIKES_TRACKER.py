@@ -41,10 +41,11 @@ topTen = ratioList[-10:]
 # for ratio in topTen:
 #     print ratioDict[ratio]
 
-client = soundcloud.Client( client_id='9538533753e11862b9ecab64f80feffa',
-                            client_secret='665b784dcc9898a27d46db1c941cdc72',
-                            username='Ayrak94',
-                            password='campbell007')
+#fill in client details
+client = soundcloud.Client( client_id='',
+                            client_secret='',
+                            username='',
+                            password='')
 
 # for ratio in topTen:
     # print likesDict[ratioDict[ratio]]
